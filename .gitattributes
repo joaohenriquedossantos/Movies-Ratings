@@ -1,0 +1,6 @@
+*.python linguist-detectable=true
+*.flask linguist-detectable=true
+*.javascript linguist-detectable=true
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*css linguist-detectable=false
